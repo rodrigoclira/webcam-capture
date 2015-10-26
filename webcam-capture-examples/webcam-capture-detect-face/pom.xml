@@ -15,11 +15,13 @@
 	<description>Example of how to use painter interface to mark detected face</description>
 
 	<dependencies>
+	<!-- 
 		<dependency>
 			<groupId>com.github.sarxos</groupId>
 			<artifactId>webcam-capture</artifactId>
 			<version>${project.version}</version>
 		</dependency>
+		 -->
 		<dependency>
 			<groupId>org.openimaj</groupId>
 			<artifactId>faces</artifactId>
